@@ -1,0 +1,22 @@
+{
+	"name": "fevent",
+	"version": "0.0.1",
+	"description": "Functional event handling for lazy people",
+	"main": "index.js",
+	"scripts": {
+		"test": "tap test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/micnic/fevent.git"
+	},
+	"keywords": [
+		"event"
+	],
+	"author": "micnic",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/micnic/fevent/issues"
+	},
+	"homepage": "https://github.com/micnic/fevent"
+}
